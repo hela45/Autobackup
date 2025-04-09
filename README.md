@@ -1,4 +1,3 @@
-```markdown
 # AutoBackup Script
 
 ## 📋 Description
@@ -39,7 +38,7 @@ All backups are saved under:
 
 ## 👤 Author
 Created by [Hela Talbi]
-```
+
 
 
 

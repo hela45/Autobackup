@@ -37,7 +37,7 @@ All backups are saved under:
 ```
 
 ## 👤 Author
-Created by [Hela Talbi]
+Created by Hela Talbi
 
 
 
